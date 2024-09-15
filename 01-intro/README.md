@@ -53,3 +53,5 @@ curl http://localhost:9200
 ```
 
 For reference: RAG Workshop https://github.com/alexeygrigorev/llm-rag-workshop?tab=readme-ov-file 
+
+For instructions: https://github.com/DataTalksClub/llm-zoomcamp/tree/main/01-intro 
