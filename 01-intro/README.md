@@ -9,15 +9,15 @@
  pip install -r requirements.txt
 ```
 requirements.txt contain:
-  - tqdm
-  - python-dotenv
-  - ipykernel
-  - openai
-  - elasticsearch
-  - pandas
-  - scikit-learn
-  - python-dotenv
-  - groq
+    tqdm
+    python-dotenv
+    ipykernel
+    openai
+    elasticsearch
+    pandas
+    scikit-learn
+    python-dotenv
+    groq
 
 - Set env variable: OPENAI_API_KEY with OPENAI API Key
 ```bash
