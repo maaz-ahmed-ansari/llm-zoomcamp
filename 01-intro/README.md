@@ -30,3 +30,5 @@ groq
 ```
 jupyter lab
 ```
+
+- Test some code and check if LLM is working fine e.g. "Preparing environment.ipynb"
